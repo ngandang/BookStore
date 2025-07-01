@@ -1,0 +1,80 @@
+[
+		{
+		"name": "The Art of Coding",
+		"description": "this book explores the concepts of drawing, graphics and animation in the context of coding. In this endeavour, in addition to initiating the process with some historical perspectives on programming languages, it prides itself by presenting complex concepts in an easy-to-understand fashion for students, artists, hobbyists as well as those interested in computer science, computer graphics, digital media, or interdisciplinary studies.",
+		"price": 79.5,
+		"imageUrl": "https://m.media-amazon.com/images/I/81yKbt-7t+L._SY522_.jpg",
+		"stock": 15,
+		"author": "Mohammad Majid al-Rifaie, Anna Ursyn, Theodor Wyeld ",
+		"category": "Technology",
+		"rating": 5,
+		"publisher": "Tech Publishers"
+	},
+  {
+    "name": "Bigger and Better",
+    "description": "Spending rampantly to scale has proven unsustainable and undesirable. You don’t have to spend a lot to scale fast. Your business can grow quickly without throwing money at a growth plan to make it work. Instead, be audacious, smart, strategic, and tactical.",
+    "price": 99,
+    "imageUrl": "https://m.media-amazon.com/images/I/51RQW0W1wnL.jpg",
+    "stock": 10,
+		"author": "Esther Kestenbaum Prozan",
+		"category": "Business",
+		"rating": 1,
+		"publisher": "Tech Books Publishing"
+	},
+	{
+		"name": "Thoi Dai Cua Toi: Nhin Lai 100 Nam Lich Su",
+		"description": "Cuốn sách là một bản tường thuật toàn diện về lịch sử Việt Nam kéo dài hơn 3.000 năm, từ thời tiền sử đến thời hiện đại.Tác giả Ben Kiernan tiếp cận lịch sử Việt Nam qua lăng kính đa ngành: khảo cổ, môi trường, xã hội và chính trị. Cuốn sách nhấn mạnh vai trò của đa dạng văn hóa, sắc tộc và tôn giáo trong quá trình hình thành quốc gia.",
+		"price": 69,
+		"imageUrl": "https://m.media-amazon.com/images/I/81ODR+rxsZL._SY522_.jpg",
+		"stock": 8,
+		"author": "Vũ Quốc Thúc",
+		"category": "History",
+		"rating": 4,
+		"publisher": "History Press"
+	},
+	{
+		"name": "Soil Science Simplified, Fifth Edition ",
+		"description": "Throughout its previous four editions, Soil Science Simplified has helped generations of students understand the basic concepts and scientific principles of soils. The Fifth Edition expands on that foundation, providing a perfect overview for those seeking a concise, practical introduction to the subject. The authors' combined 100 years of teaching experience result in a handbook that won't confuse or intimidate students.",
+		"price": 49,
+		"imageUrl": "https://m.media-amazon.com/images/I/A1rlyMhe+eL._SY522_.jpg",
+		"stock": 12,
+		"author": "Donald P. Franzmeier, William W. McFee, John G. Graveel, Helmut Kohnke",
+		"category": "Science",
+		"rating": 1,
+		"publisher": "Science World"
+	},
+	{
+		"name": "Tắt đèn",
+		"description": "Tắt đèn là một cuốn xã hội tiểu thuyết tả cảnh đau khổ của dân quê, của một người đàn bà nhà quê An Nam suốt đời sống trong sự nghèo đói và sự ức hiếp của bọn cường hào và người có thế lực mà lúc nào cũng vẫn hết lòng vì chồng, vì con. Theo tôi tiên tri, thì cuốn Tắt đèn còn phải sống lâu, thọ hơn cả một số văn gia đương kim hôm nay. Chị Dậu đích là tác giả Ngô Tất Tố hóa thân ra mà thôi. Chị Dậu là cái đốm sáng đặc biệt của Tắt đèn. Nếu ví toàn truyện Tắt đèn là một khóm cây, thì chị Dậu là cả gốc cả ngọn cả cành và chính chị Dậu đã nổi gió lên mà rung cho cả cái cây dạ hương Tắt đèn đó lên",
+		"price": 42,
+		"imageUrl": "https://cdn1.fahasa.com/media/catalog/product/i/m/image_119104.jpg",
+		"stock": 5,
+		"author": "Ngô Tất Tố",
+		"category": "Literature",
+		"rating": 1,
+		"publisher": "NXB Văn Học"
+	},
+
+	{
+		"name": "Thép Đã Tôi Thế Đấy",
+		"description": "Thép Đã Tôi Thế Đấy của N.A.Ostrovsky sẽ trả lời cho chúng ta: \"Thế nào là thép đã tôi? Trong tác phẩm, nhà văn đã tập trung miêu tả sự trưởng thành của Pavel như quá trình tôi luyện một thanh thép thật sự.",
+		"price": 39,
+		"imageUrl": "https://cdn1.fahasa.com/media/catalog/product/8/9/8935236432849.jpg",
+		"stock": 20,
+		"auther": "Nikolai A Ostrovsky",
+		"category": "Literature",
+		"rating": 5,
+		"publisher": "Văn Học"
+	},
+	{
+		"name": "Đời Thừa",
+		"description": "Một tác phẩm thật giá trị, phải vượt lên bên trên tất cả các bờ cõi và giới hạn, phải là một tác phẩm chung cho cả loài người. Nó phải chứa đựng được một cái gì lớn lao, mạnh mẽ, vừa đau đớn, lại vừa phấn khởi. Nó ca tụng lòng thương, tình bác ái, sự công bình... Nó làm cho người gần người hơn. Như thế mới thật là một tác phẩm hay, các anh có hiểu không? Tôi chưa thất vọng đâu! Rồi các anh xem... Cả một đời tôi, tôi sẽ chỉ viết một quyển thôi, nhưng quyển ấy sẽ ăn giải Nobel và dịch ra đủ mọi thứ tiếng trên hoàn cầu!.",
+		"price": 59,
+		"imageUrl": "https://cdn1.fahasa.com/media/flashmagazine/images/page_images/danh_tac_viet_nam___doi_thua/2024_06_11_10_32_29_1-390x510.jpg",
+		"stock": 10,
+		"auther": "Nam Cao",
+		"category": "History",
+		"rating": 4,
+		"publisher": "Văn Học"
+	}
+]

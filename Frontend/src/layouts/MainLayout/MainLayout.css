@@ -1,0 +1,25 @@
+.app-container {
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+
+.app-header {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  background: #fff;
+  color: #fff;
+  z-index: 1000;
+	box-shadow: 0 2px 4px rgb(161 166 173 / 10%);
+  border-bottom: 1px solid #d9d3d3;
+}
+
+.main-content {
+  margin-top: 72px;
+  flex: 1;
+  overflow-y: auto;
+  padding: 0 80px;
+  background: #dedee1;
+}

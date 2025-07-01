@@ -1,0 +1,15 @@
+.banner-container {
+  position: relative;
+  width: 100%;
+
+  .banner-image {
+    width: 100%;
+    height: 400px;
+  }
+  .shop-now-button {
+    position: absolute;
+    bottom: 50px;
+    left: 50%;
+    transform: translateX(-50%);
+  }
+}
