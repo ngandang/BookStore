@@ -1,0 +1,13 @@
+services:
+  - type: web
+    name: ndbookstore
+    env: dotnet
+    plan: free
+    buildCommand: dotnet build
+    startCommand: dotnet ApiApp.dll
+    buildFilter:
+      paths:
+        - backend/**
+    envVars:
+      - key: ASPNETCORE_ENVIRONMENT
+        value: Production
